@@ -15,11 +15,10 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
+   <img src="https://img.shields.io/github/license/anmol098-readme-stats"/>
    <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
    <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
+   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star
 <p align="center">
    Are you an early 🐤 or a night 🦉?
    <br/>
